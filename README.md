@@ -3,5 +3,6 @@
 
 usage
 
+参考 timer_test.go
 
 
