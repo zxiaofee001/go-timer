@@ -1,4 +1,4 @@
-package time
+package timer
 
 const (
 	// Debug debug switch
